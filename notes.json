@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Gravity Falls (Opening)",
+    "notes": "re mi fa la sol la do \nre mi fa mi sol la sol fa \nfa fa fa la la sol fa \nla la la sol la sol fa \nfa fa fa la la sol fa \nla la la DO# DO# DO# \nfa fa fa la la sol fa  \nla# la# la# sol DO la DO# RE \nRE",
+    "american": "D  E  F  A   G   A   C \nD  E  F  E   G   A   G   F \n F  F  F  A   A   G   F \nA  A  A  G   A   G   F \nF  F  F  A   A   G   F \nA  A  A  D#  D#  D# \nF  F  F  A   A   G   F \nA# A# A# G   D   A   D#  E \nD",
+    "author": "Joseph Breeck"
+  },
+
+  {
+    "id": "2",
+    "name": "Indiana Jones",
+    "notes": "mi fa sol DO \nre mi fa \nsol la si FA \nla si DO RE MI \nmi fa sol DO \nRE MI FA \nsol sol MI RE sol MI RE sol MI RE sol FA MI RE DO \nDO DO DO DO",
+    "american": "E  F  G  C \nD   E   F \nG   A   B   F \nA   B   C   D   E \nE   F   G   C \nD   E   F \nG   G   E   D   G   E   D   G   E   D   F   E   D   C \nC   C   C   C",
+    "author": "John Williams"
+
+  },
+
+  {
+    "id": "3",
+    "name": "Tetris",
+    "notes": "MI si DO RE DO si la la DO MI RE DO si DO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si si DO RE MI DO la la \nMI si DO RE DO si la la DO MI RE DO si DO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si si DO RE MI DO la la",
+    "american": "E   B   C   D   C   B   A   A   C   E   D   C   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   C   E   D   C   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   B   C   D   C   B   A   A",
+    "author": "Hirokazu Tanaka"
+  }
+
+]
