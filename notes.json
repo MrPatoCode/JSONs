@@ -10,7 +10,7 @@
   {
     "id": "2",
     "name": "Indiana Jones",
-    "notes": "mi fa sol DO \nre mi fa \nsol la si FA \nla si DO RE MI \nmi fa sol DO \nRE MI FA \nsol sol MI RE sol MI RE sol MI RE sol FA MI RE DO \nDO DO DO DO",
+    "notes": "mi fa sol DO \nre mi fa \nsol la si FA \nla si DO RE MI \nmi fa sol DO \nRE MI FA \nsol sol MI RE sol MI RE sol \nMI RE sol FA MI RE DO \nDO DO DO DO",
     "american": "E  F  G  C \nD   E   F \nG   A   B   F \nA   B   C   D   E \nE   F   G   C \nD   E   F \nG   G   E   D   G   E   D   G   E   D   F   E   D   C \nC   C   C   C",
     "author": "John Williams"
 
