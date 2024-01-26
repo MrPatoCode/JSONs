@@ -20,7 +20,7 @@
     "id": "3",
     "id": "3",
     "name": "Tetris",
-    "notes": "MI si DO RE DO si la \nla DO MI RE DO si \nDO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si \nsi DO RE MI DO la la MI si DO RE DO si la \nla DO MI RE DO si \nDO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si \nsi DO RE MI DO la la",
+    "notes": "MI si DO RE DO si la \nla DO MI RE DO si \nDO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si \nsi DO RE MI DO la la \nMI si DO RE DO si la \nla DO MI RE DO si \nDO RE MI DO la la \nRE FA LA SOL FA MI DO MI RE DO si \nsi DO RE MI DO la la",
     "american": "E   B   C   D   C   B   A   A   C   E   D   C   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   C   E   D   C   B   C   D   C   B   A   A \nE   B   C   D   C   B   A   A   B   C   D   C   B   A   A",
     "author": "Hirokazu Tanaka"
   }
